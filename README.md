@@ -1,7 +1,5 @@
 # Task Manager Web App
 
-**Made by:** Ryan De Guzman  
-**Email:** ryanlink74@outlook.com
 
 A full-stack task management application built with Django REST Framework and React.js for the ABBA Software Development Operational Test.
 
@@ -255,4 +253,5 @@ task-manager-app/
 ---
 
 **Built for ABBA Software Development Operational Test**  
+
 **Node.js Version: Latest LTS (or v18.20.8)**
